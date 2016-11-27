@@ -1,0 +1,32 @@
+@import 'https://fonts.googleapis.com/css?';
+
+body{
+  background: #511B54;
+}
+
+h1{
+  color: #ffffff;
+  font-family: "Cinzel";
+  font-size: 42px;
+}
+
+.quote{
+  font-family: "Playfair Display";
+  font-size: 24px;
+}
+
+.author{
+  font-family: "Playfair Display";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#tweet, #newQuote{
+   background: #ffffff;
+   color: #3D3D3D;
+
+}
+
+.well {
+  background: #ffffff;
+}
